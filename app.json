@@ -1,8 +1,8 @@
 {
-    "name": "Ligit Userbot",
-    "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
+    "name": "A5h3v Userbot",
+    "description": "AtharvOnTop...An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/TEAMxLIGIT/Ligit-Userbot",
+    "repository": "https://github.com/Atharv-owner/Ligit-Userbot",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
