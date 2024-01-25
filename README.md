@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="[https://graph.org/file/74308e4cb08a25ad8a0c2.jpg]">
 
 <p align="center">ʟɪɢɪᴛ ᴜsᴇʀʙᴏᴛ 🔥 </p>
 
